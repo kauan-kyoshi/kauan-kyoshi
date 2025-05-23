@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/9bzvfSg.gif" width="200">
+  <img src="https://i.imgur.com/StoMaGo.gif" width="200">
 </div>
 
 <div>
