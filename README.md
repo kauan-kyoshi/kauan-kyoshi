@@ -67,20 +67,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kauan-kyoshi&show_icons=true&count_private=true&rank_icon=github&theme=panda&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=kauan-kyoshi&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-kyoshi&layout=compact&font=Iosevka&langs_count=16&theme=panda"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-kyoshi&layout=compact&font=Iosevka&langs_count=16&theme=radical"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=panda"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical"
   />
   <br>
   <br>
