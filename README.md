@@ -5,16 +5,38 @@
   <img src="https://i.imgur.com/StoMaGo.gif" width="200">
 </div>
 
-<div>
+
+
+<div style="
+  background-color: #f0f0f0; /* Um fundo para você ver as bordas */
+  padding: 15px;             /* Espaçamento interno */
+  border: 1px solid #ccc;    /* Uma borda para destacar o arredondamento */
+  border-radius: 10px;       /* Onde a mágica acontece! */
+">
 
 <div align="center" >
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=casdadia+code&weight=800&pause=1000&color=0636CD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 </div>
 
+</div>
 
+<br>
+<br>
+
+<div style="
+  background-color: #f0f0f0; /* Um fundo para você ver as bordas */
+  padding: 15px;             /* Espaçamento interno */
+  border: 1px solid #ccc;    /* Uma borda para destacar o arredondamento */
+  border-radius: 10px;       /* Onde a mágica acontece! */
+">
+  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
+
+
+
+
 
 
 
