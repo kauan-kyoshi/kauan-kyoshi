@@ -102,17 +102,6 @@
 </details>
 
 
-<div style="
-  background-color: #f0f0f0; /* Um fundo para você ver as bordas */
-  padding: 15px;             /* Espaçamento interno */
-  border: 1px solid #ccc;    /* Uma borda para destacar o arredondamento */
-  border-radius: 10px;       /* Onde a mágica acontece! */
-">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&descAlign=50&descAlignY=60"/>
-
-</div>
-
 
 
 <picture align="center">
