@@ -22,8 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Exemplo de configuração de cores customizadas e uma paleta
           outputs: |
-            dist/github-contribution-grid-snake.svg # Tema padrão
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark # Tema escuro GitHub
+
             dist/snake-ocean-theme.svg?palette=ocean # Usando a paleta 'ocean'
             dist/snake-custom-colors.svg?color_snake=cyan&color_dots=#FFD700,#FFA500,#FF8C00,#FF4500&color_bg=#111 # Cores totalmente customizadas
           
