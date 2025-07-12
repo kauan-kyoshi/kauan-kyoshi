@@ -47,9 +47,9 @@
 
 
 
-
-<details align="center">  
-  <summary style="text-align: center;">
+<div align="center">
+<details>  
+  <summary>
       <samp>
         <b>More Info</b>
       </samp>
@@ -100,7 +100,7 @@
 
 
 </details>
-
+</div>
 
 
 
