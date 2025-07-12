@@ -54,7 +54,7 @@
         <b>More Info</b>
       </samp>
   </summary>
-  
+</details>
   <br>
 
 
