@@ -50,8 +50,8 @@
 
 <details align="center">  
   <summary>
-      <samp>
-        <b align="center">More Info</b>
+      <samp align="center">
+        <b>More Info</b>
       </samp>
   </summary>
 
