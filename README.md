@@ -49,8 +49,8 @@
 
 
 <details align="center">  
-  <summary>
-      <samp align="center">
+  <summary style="text-align: center;">
+      <samp>
         <b>More Info</b>
       </samp>
   </summary>
