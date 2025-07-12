@@ -51,10 +51,10 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b align="center">More Info</b>
       </samp>
   </summary>
-</details>
+
   <br>
 
 
