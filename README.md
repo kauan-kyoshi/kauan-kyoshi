@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/StoMaGo.gif" width="200">
+  <img src="https://i.imgur.com/BaHIKfM.gif" width="200">
 </div>
 
 
