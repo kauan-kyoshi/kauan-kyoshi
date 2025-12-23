@@ -60,28 +60,48 @@
 
 
 
+
 <div align="center">
-<details>  
-  <summary>
-    <samp><b>✨ Clique aqui para ver minhas estatísticas</b></samp>
-  </summary>
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=kauan-kyoshi&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-kyoshi&layout=compact&font=Iosevka&langs_count=16&theme=radical"
+  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kauan-kyoshi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-kyoshi&layout=compact&theme=radical" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical" alt="Profile Summary" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauan-kyoshi&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kauan-kyoshi&theme=tokyonight&card_width=885"
+  />
+
+</div>
+
+
+
+
+
+
+
 </details>
 </div>
 
-<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan-kyoshi/kauan-kyoshi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan-kyoshi/kauan-kyoshi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauan-kyoshi/kauan-kyoshi/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://
