@@ -1,8 +1,8 @@
 <div style="
-  background-color: #f0f0f0; 
-  padding: 15px;             
-  border: 1px solid #ccc;    
-  border-radius: 10px;       
+  background-color: #f0f0f0; /* Um fundo para você ver as bordas */
+  padding: 15px;             /* Espaçamento interno */
+  border: 1px solid #ccc;    /* Uma borda para destacar o arredondamento */
+  border-radius: 10px;       /* Onde a mágica acontece! */
 ">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there!%20I'm%20Kauan%20Kyoshi&textBg=false&fontColor=black&reversal=false&fontSize=38&animation=fadeIn"/>
@@ -13,11 +13,13 @@
   <img src="https://i.imgur.com/BaHIKfM.gif" width="200">
 </div>
 
+
+
 <div style="
-  background-color: #f0f0f0; 
-  padding: 15px;             
-  border: 1px solid #ccc;    
-  border-radius: 10px;       
+  background-color: #f0f0f0; /* Um fundo para você ver as bordas */
+  padding: 15px;             /* Espaçamento interno */
+  border: 1px solid #ccc;    /* Uma borda para destacar o arredondamento */
+  border-radius: 10px;       /* Onde a mágica acontece! */
 ">
 
 <div align="center" >
@@ -31,14 +33,18 @@
 <br>
 
 <div style="
-  background-color: #f0f0f0; 
-  padding: 15px;             
-  border: 1px solid #ccc;    
-  border-radius: 10px;       
+  background-color: #f0f0f0; /* Um fundo para você ver as bordas */
+  padding: 15px;             /* Espaçamento interno */
+  border: 1px solid #ccc;    /* Uma borda para destacar o arredondamento */
+  border-radius: 10px;       /* Onde a mágica acontece! */
 ">
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
+
+
+
+
 
 <div align="center">
 <details>  
@@ -49,6 +55,11 @@
   </summary>
 
   <br>
+
+
+
+
+
 
 <div align="center">
   <img
@@ -68,7 +79,7 @@
   <img
     align="center"
     alt="Top Language"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical"
   />
   <br>
   <br>
@@ -81,11 +92,17 @@
 
 </div>
 
+
+
+
+
+
+
 </details>
 </div>
 
+
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan-kyoshi/kauan-kyoshi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan-kyoshi/kauan-kyoshi/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kauan-kyoshi/kauan-kyoshi/output/github-contribution-grid-snake.svg">
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media
