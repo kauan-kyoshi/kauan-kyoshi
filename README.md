@@ -9,19 +9,14 @@
 <br>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions Graph" />
-</div>
-
-<br>
-
-<div align="center">
 <details>  
   <summary>
     <samp><b>✨ Clique aqui para ver minhas estatísticas</b></samp>
   </summary>
-  <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=kauan-kyoshi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kauan-kyoshi&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <br><br>
 
@@ -33,7 +28,7 @@
 
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauan-kyoshi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauan-kyoshi&theme=radical" alt="GitHub Streak" />
 
 </details>
 </div>
