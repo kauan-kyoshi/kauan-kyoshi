@@ -21,16 +21,20 @@
   </summary>
   <br>
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/?username=kauan-kyoshi&show_icons=true&count_private=true&rank_icon=github&theme=radical&font=Iosevka" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-kyoshi&layout=compact&font=Iosevka&langs_count=16&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kauan-kyoshi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-kyoshi&layout=compact&theme=radical" alt="Top Languages" />
   
   <br><br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauan-kyoshi&theme=radical" alt="Profile Summary" />
+
   <br><br>
   
-  <img height="154" src="https://github-readme-streak-stats.herokuapp.com?user=kauan-kyoshi&theme=tokyonight&card_width=885" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauan-kyoshi&theme=tokyonight" alt="GitHub Streak" />
+
 </details>
 </div>
 
